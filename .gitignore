@@ -45,3 +45,5 @@ plv8-*.zip
 /windows/_CPack_Packages
 /windows/install_manifest.txt
 /windows/plv8*.zip
+.devenv
+.direnv
